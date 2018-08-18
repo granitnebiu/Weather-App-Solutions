@@ -1,3 +1,8 @@
+
+# Assignment
+Show an error message in case that the user inserted an invalid location.
+
+
 # Changes
 
 ### HTML

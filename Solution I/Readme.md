@@ -1,3 +1,8 @@
+
+# Assignment
+The first challenge is one which is related with the UI. You have to write the css code for larger displays now. 
+
+
 # Changes
 
 ### CSS
@@ -8,4 +13,10 @@
 
 ### JS
 1. Line 30 - change from a hard coded value to a dynamic one.
-   Get the width of the menu, in percentage,  inside the window and then move it to right with that percentage.
+   Get the width of the menu, in percentage inside the window and then move it to right with that percentage.
+
+
+
+
+##Note
+This assignment has many solutions. This is just one of them.

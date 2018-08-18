@@ -1,7 +1,9 @@
+
+# Assignment
+Save inside the local storage not only the name of the location but, the latitude and longitude too.
+Store not only an array with the names, but an array with objects which contains both names and geographic coordinates.
+
 # Changes
-
-
-
 
 ### JS
 1. Line 406 - Send to the save function inside local storage module the latitude and longitude
