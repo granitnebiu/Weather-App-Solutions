@@ -1,4 +1,4 @@
 # Solutions
 
 
-Each folder contains a solution for a challenge inside the assignment.
+This repo contains the solutions for the assignment of the course [Course](https://www.udemy.com/javascript-weather-application/?couponCode=GITHUBCP)
