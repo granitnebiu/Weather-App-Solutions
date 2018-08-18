@@ -37,6 +37,8 @@
 
     <!-- main tag - here will be placed all the content of the application -->
     <main hidden>
+        <div id="mask" hidden></div>
+
         <!-- hidden attribute because at first: the main tag is hidden and the loading screen visible-->
         <!-- open menu button -->
         <button id="open-menu-btn" class="ripple">
@@ -158,9 +160,17 @@
                 </div>
             </div>
         </section>
-        
+
+        <!-- found locations by opencagedata API -->
+        <div id="found-locations-container" class="center modal" hidden>
+            <!-- <div class="ripple found-location-box" lat="latitude" lng="longitude" label="label">
+                <p>City 1</p>
+            </div> -->
+ 
+        </div>
+
         <!-- alert messages -->
-        <button class="alert-box alert-red ripple center_x" id="alert-city-not-foud"> City not found</button>
+        <button class="alert-box alert-red ripple center_x" id="alert-city-not-foud"> </button>
     </main>
 
     <!-- axios -->
